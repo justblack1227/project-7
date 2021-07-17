@@ -1,8 +1,7 @@
-/* Treehouse FSJS Techdegree
- * Project 7 - Create React App
+/* Project
+ * Create React App
  * By Justin Black
  
- Going for Exceeds Expectations but okay with meeting expecatations
  */
 
 import React, { PureComponent } from 'react';
