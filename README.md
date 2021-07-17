@@ -8,8 +8,6 @@ With this project, this displays sports gallery with searchable features. In her
 - Asynchronously handling the data returned from the request
 - Displaying the data dynamically. 
 
-Going for Exceeds expectations but ok with meeting ecpectations
-
 Justin Black
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
