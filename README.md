@@ -1,4 +1,4 @@
-#Project 7
+#Sports Gallery
 
 With this project, this displays sports gallery with searchable features. In here you will find:
 
